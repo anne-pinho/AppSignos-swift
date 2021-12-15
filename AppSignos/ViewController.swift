@@ -28,8 +28,7 @@ class ViewController: UITableViewController {
         signos.append("Capricórnio")
         signos.append("Aquário")
         signos.append("Peixes")
-        signos.append("sla")
-        signos.append("oi")
+        
         
         
         //configure significados
@@ -45,8 +44,7 @@ class ViewController: UITableViewController {
         significadosSignos.append("9")
         significadosSignos.append("10")
         significadosSignos.append("11")
-        significadosSignos.append("12")
-        significadosSignos.append("13")
+        
     }
 
     override func numberOfSections(in tableView: UITableView) -> Int {
